@@ -1,5 +1,5 @@
 chrome.runtime.onInstalled.addListener(() => {
-  console.log("Bootcamp Helper instalado.");
+  console.log("Contador de cliques instalado.");
   chrome.storage.local.set({ installs: Date.now(), clickCount: 0 });
 });
 
