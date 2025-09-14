@@ -1,0 +1,1 @@
+# Bootcamp Helper - Contador de Cliques\n\nExtensão Chrome MV3 para praticar desenvolvimento de extensões.
